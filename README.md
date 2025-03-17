@@ -23,7 +23,12 @@ The recommended way to run these notebooks is on your own computer. This, howeve
 
 ## 2. Run .jl files in the cloud via Binder
 
-If installing Julia is not possible then these notebooks can be run in the cloud via [Binder](https://mybinder.org/) instead. Please note that this option might be quite slow so please be patient. Simply click on the hyperlinks below to run the notebooks. Once the notebook has opened, click on "Run notebook code" in the upper right corner.
+If installing Julia is not possible then these notebooks can be run in 
+the cloud via [Binder](https://mybinder.org/) instead. Please note that 
+this option might be quite slow so please be patient. Simply click on 
+the hyperlinks below to run the notebooks. Once the notebook has 
+opened, click on "Run notebook code" in the upper right corner and then 
+on the Binder button.
 
 [Application 1 - Sampling structured tensor priors](https://binder.plutojl.org/v0.19.36/open?url=https%253A%252F%252Fraw.githubusercontent.com%252FTUDelft-DeTAIL%252FAbTensors%252Fmain%252FAbTensors1.jl)
 
